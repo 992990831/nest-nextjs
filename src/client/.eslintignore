@@ -1,0 +1,3 @@
+{
+  "eslintIgnore": ["next-env.d.ts", "next.config.js"]
+}
